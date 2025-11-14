@@ -1,0 +1,101 @@
+1). write a program to print the numbers from 1 to n.
+
+2).write a program to calculate the sum of first n natural number.
+  ---> import java.util.Scanner;
+       class Adding
+       {
+        public static int print(int n)
+	{
+	   int sum=0;
+	  for(int i=1;i<=n;i++)
+	   {
+		sum=sum+i;
+		
+	    }
+		return sum;
+	} 
+	public static void main(String[] args)
+	{
+	Scanner sc=new Scanner(System.in);
+	System.out.println(" enter n values");
+	int n=sc.nextInt();
+	System.out.print(print(n));
+	
+	}
+    }
+
+3).write a program that prompts the user to input a positive integer.it should then print the multiplication table of that number.
+---> import java.util.Scanner;
+public class Multiplication
+{
+	public static void print(int n)
+	{
+	  int mul =0;
+	  for(int i=1;i<=10;i++)
+	   {
+		 mul=n*i;
+		 System.out.println(mul);
+	    }
+		
+	} 
+	public static void main(String[] args)
+	{
+	Scanner sc=new Scanner(System.in);
+	System.out.println(" enter n values");
+	int n=sc.nextInt();
+	print(n);
+	
+	}
+ }
+
+4)sum of even numbers from 1 to n.
+--> import java.util.Scanner;
+public class Evennumber
+{
+	public static int even(int n)
+	{
+	  int sum =0;
+	  for(int i=1;i<=n;i++)
+	   {
+	if(i%2==0)
+	{
+	sum=sum+i;
+	}
+		 
+            }
+	 return sum;	
+	} 
+	public static void main(String[] args)
+	{
+	Scanner sc=new Scanner(System.in);
+	System.out.println(" enter n values");
+	int n=sc.nextInt();
+	System.out.println(even(n));
+	
+	}
+ }
+5).print  numbers in reverse order.
+       input:-n=5
+	output:-5 4 3 2 1.
+--> import java.util.Scanner;
+     class Reverseorder
+{
+public static void print(int n)
+	{
+	 
+	  for(int i=n;i>=1;i--)
+	   {
+	System.out.println(i);
+		 
+            }
+	 
+	} 
+	public static void main(String[] args)
+	{
+	Scanner sc=new Scanner(System.in);
+	System.out.println(" enter n values");
+	int n=sc.nextInt();
+	print(n);
+	
+	}
+}

@@ -1,0 +1,30 @@
+package arrays;
+
+import java.util.Arrays;
+
+public class Merge_Two_Arrays 
+{
+	static String merge(int a[],int m[])
+	{
+		int res[]=new int[a.length+m.length];
+		int j=0;
+		for(int i=0;i<=res.length-1;i++)
+		{
+			if(i<=a.length-1)
+			{
+				res[i]=a[i];
+			}
+			else
+			{
+				res[i]=m[j];
+				j++;
+			}
+		}
+		return Arrays.toString(res);
+	}
+public static void main(String[] args) {
+	int arr[]= {1,2,3};
+	int a[]= {4,5,6};
+	System.out.println(merge(arr, a));
+}
+}

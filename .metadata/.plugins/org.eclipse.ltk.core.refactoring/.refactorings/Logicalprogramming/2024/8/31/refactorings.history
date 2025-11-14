@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Anagram.java&apos; to &apos;Grooming/src/String&apos;&#x0D;&#x0A;- Original project: &apos;Logicalprogramming&apos;&#x0D;&#x0A;- Destination element: &apos;Grooming/src/String&apos;&#x0D;&#x0A;- Original element: &apos;strings.Anagram.java&apos;" description="Copy compilation unit" destination="=Grooming/src&lt;String" element1="/src&lt;strings{Anagram.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1722520100206" units="1" version="1.0"/>
+</session>

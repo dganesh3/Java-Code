@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;N&apos; in &apos;numbers.SpecialFibonacci.specialFibonacci(...)&apos; to &apos;input1&apos;&#x0D;&#x0A;- Original project: &apos;Grooming&apos;&#x0D;&#x0A;- Original element: &apos;numbers.SpecialFibonacci.specialFibonacci(int).N&apos;&#x0D;&#x0A;- Renamed element: &apos;N&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;N&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;numbers{SpecialFibonacci.java[SpecialFibonacci~specialFibonacci~I@N!188!192!192!192!I!0!true" name="input1" references="true" stamp="1726725159886" version="1.0"/>
+</session>

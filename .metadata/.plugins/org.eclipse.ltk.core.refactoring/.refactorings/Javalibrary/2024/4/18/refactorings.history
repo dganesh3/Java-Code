@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.lib.examplesof_collection.nani2.java&apos; to &apos;treeee.java&apos;&#x0D;&#x0A;- Original project: &apos;Javalibrary&apos;&#x0D;&#x0A;- Original element: &apos;com.lib.examplesof_collection.nani2.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lib.examplesof_collection.treeee.java&apos;" description="Rename compilation unit &apos;nani2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.lib.examplesof_collection{nani2.java" name="treeee.java" references="false" stamp="1714366282220" version="1.0"/>
+</session>

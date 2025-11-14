@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.Array.programs.Sum&apos; to &apos;Replace_even_elements&apos;&#x0D;&#x0A;- Original project: &apos;Logicalprogramming&apos;&#x0D;&#x0A;- Original element: &apos;com.Array.programs.Sum&apos;&#x0D;&#x0A;- Renamed element: &apos;com.Array.programs.Replace_even_elements&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Sum&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.Array.programs{Sum.java[Sum" matchStrategy="1" name="Replace_even_elements" qualified="false" references="true" similarDeclarations="false" stamp="1709187663462" textual="false" version="1.0"/>
+</session>

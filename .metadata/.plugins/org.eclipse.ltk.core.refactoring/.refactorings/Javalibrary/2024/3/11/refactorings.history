@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lib.exception.Arthemetic_exception&apos; to &apos;SAmple&apos;&#x0D;&#x0A;- Original project: &apos;Javalibrary&apos;&#x0D;&#x0A;- Original element: &apos;com.lib.exception.Arthemetic_exception&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lib.exception.SAmple&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Arthemetic_exception&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lib.exception{Arthemetic_exception.java[Arthemetic_exception" matchStrategy="1" name="SAmple" qualified="false" references="true" similarDeclarations="false" stamp="1710393364260" textual="false" version="1.0"/>
+</session>
